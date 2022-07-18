@@ -1,0 +1,1 @@
+Repository for practising Spring Guides
