@@ -1,6 +1,6 @@
 22/07/18: Repository for practising Spring Guides.
 
-Day 1 (22/07/18) :
+#### Day 1 (22/07/18)
     - Initialize Git repo
         - Create repo on Github web
         - Initialize local git
